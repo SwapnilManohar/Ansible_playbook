@@ -1,3 +1,2 @@
-[swapnil]
-slave1 ansible_ssh_host=54.215.47.68
-slave2 ansible_ssh_host=54.153.120.145
+[webservers]
+52.53.226.60 ansible_user=ec2-user
