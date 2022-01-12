@@ -1,2 +1,2 @@
 [webservers]
-13.52.81.243 ansible_user=ec2-user ansible_connection=ssh
+172.31.11.243 ansible_user=ec2-user ansible_connection=ssh
